@@ -1,20 +1,13 @@
-# SOC113 – Suspicious hh.exe Usage
+SOC113 – Suspicious hh.exe Usage
 
-**Platform:** LetsDefend  
-**Severity:** Low  
-**Verdict:** False Positive  
+Platform: LetsDefend
+Severity: Low
+Verdict: False Positive
 
-## Alert Summary
-The alert was triggered because the user manually executed `hh.exe` to open a `.chm` (Compiled HTML Help) file.
+The alert was triggered because the user manually executed hh.exe to open a .chm (Compiled HTML Help) file.
 
-## Investigation
-- Confirmed that `hh.exe` was executed by the user
-- Verified the file type was a `.chm` help file
-- No suspicious child processes were created
-- No malicious behavior observed
+During the investigation, it was confirmed that hh.exe was launched directly by the user. The file involved was verified to be a legitimate .chm help file. No suspicious child processes were observed, and there were no signs of persistence or any malicious activity on the system.
 
-## Root Cause
-`hh.exe` was used by the user to open a legitimate `.chm` file, which is expected behavior for Windows HTML Help.
+The root cause of the alert was normal usage of hh.exe to open a valid .chm file, which is expected behavior for Windows HTML Help.
 
-## Conclusion
-This activity is considered normal user behavior. No indicators of compromise were found, and the alert was closed as a false positive.
+This activity was determined to be normal user behavior. No indicators of compromise were identified, and the alert was closed as a false positive.
