@@ -23,11 +23,4 @@ Security Operations Center (SOC), Blue Team, Incident Response, and Malware Anal
 - Virtual Machines
 - Malware analysis environments
 
-##  Lab Categories
-- `/soc-alerts` – SOC alert investigations
-- `/siem-labs` – SIEM setup & troubleshooting
-- `/malware-analysis` – Malware behavior analysis
-- `/incident-response` – Realistic IR scenarios
-- `/threat-hunting` – Proactive detection labs
-
 > This repository is intended for educational and defensive security purposes only.
