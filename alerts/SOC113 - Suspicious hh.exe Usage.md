@@ -19,4 +19,5 @@ The alert was triggered because the user manually executed `hh.exe` to open a `.
 ## Conclusion
 This activity is considered normal user behavior. No indicators of compromise were found, and the alert was closed as a false positive.
 
-
+## Screenshot
+![SOC113 Alert Screenshot](../screenshots/soc113.png)
