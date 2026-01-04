@@ -10,8 +10,8 @@ This alert was triggered due to a phishing email that contained suspicious conte
 ## Email Details
 - **Sent Time:** Mar 21, 2021, 12:26 PM  
 - **SMTP Address:** 189.162.189.159  
-- **Sender Address:** aaronluo@cmail.carleton.ca  
-- **Recipient Address:** mark@letsdefend.io  
+- **Sender Address:** aaronluo[@]cmail.carleton.ca  
+- **Recipient Address:** mark[@]letsdefend.io  
 
 ## Investigation
 The email was analyzed to determine whether it posed a real security threat. Upon review, the content of the email was found to be suspicious, and an attachment was present, increasing the potential risk.
