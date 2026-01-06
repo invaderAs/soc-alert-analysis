@@ -10,8 +10,8 @@ This alert was triggered after a phishing email containing a malicious attachmen
 ## Email Details
 - **Sent Time:** Jan 31, 2021, 03:48 PM  
 - **SMTP Address:** 49.234.43.39  
-- **Sender Address:** accounting@cmail.carleton.ca  
-- **Recipient Address:** richard@letsdefend.io  
+- **Sender Address:** accounting[@]cmail.carleton.ca  
+- **Recipient Address:** richard[@]letsdefend.io  
 
 ## Investigation
 The email content itself did not appear suspicious at first glance. However, the presence of an attachment required deeper analysis.
