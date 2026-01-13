@@ -1,7 +1,7 @@
 # SOC165 – Possible SQL Injection Payload Detected
 
 Platform: LetsDefend  
-Severity: High
+Severity: High   
 Verdict: True Positive 
 
 ## Alert Summary
