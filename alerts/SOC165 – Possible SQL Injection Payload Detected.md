@@ -1,8 +1,8 @@
 # SOC165 – Possible SQL Injection Payload Detected
 
 Platform: LetsDefend  
-Severity: Medium  
-Verdict: False Positive (Unsuccessful Attack)
+Severity: High
+Verdict: True Positive 
 
 ## Alert Summary
 This alert was generated when an external IP attempted to access a web server using a SQL injection payload in the URL parameter.
