@@ -20,7 +20,7 @@ Device Action: Allowed
 ## Attack Details
 The following URL was requested:
 
-https://172.16[.]17.17/search/?q=<$script>javascript:$alert(1)<$/script>
+https://17x.16.17.17/search/?q=<$script>javascript:$alert(1)<$/script>
 
 The request contained embedded JavaScript code, which is a common technique used in XSS attacks to execute scripts in a victim’s browser.
 
