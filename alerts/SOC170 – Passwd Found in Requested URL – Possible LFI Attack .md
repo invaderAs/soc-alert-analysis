@@ -18,7 +18,7 @@ The alert was reviewed according to the playbook. The request pattern matched a 
 
 ## Findings  
 - Suspicious URL containing **"passwd"** was detected.  
-- The request originated from external IP **106.55.45.162**.  
+- The request originated from external IP **106.55.4x.162**.  
 - No evidence of successful exploitation was found.  
 - No impact observed on the targeted host.  
 
