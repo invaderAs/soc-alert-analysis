@@ -8,9 +8,9 @@
 A potential Local File Inclusion (LFI) attempt was detected on an internal web server. The alert was triggered because the requested URL contained the keyword **"passwd"**, which is commonly associated with LFI attacks.  
 
 ## Event Details   
-- **Destination IP Address:** 172.16.17.13  
-- **Source IP Address:** 106.55.45.162  
-- **Requested URL:** `https://172.16.17.13/?file=../../../../etc/passwd`   
+- **Destination IP Address:** 172.16.x7.13  
+- **Source IP Address:** 106.55.4x.162  
+- **Requested URL:** `https://172.16.x7.13/?file=../../../../etc/passwd`   
 - **Alert Trigger Reason:** URL contains "passwd"  
 
 ## Investigation  
