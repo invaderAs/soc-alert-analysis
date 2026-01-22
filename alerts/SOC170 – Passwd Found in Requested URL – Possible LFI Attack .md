@@ -30,4 +30,4 @@ The alert was reviewed according to the playbook. The request pattern matched a 
 This alert was a **true positive**. While the activity resembled an LFI attempt, the attack was unsuccessful and contained without further action.  
 
 ## Screenshot
-![SOC104 Alert Screenshot](../screenshots/soc170.png)
+![SOC170 Alert Screenshot](../screenshots/soc170.png)
