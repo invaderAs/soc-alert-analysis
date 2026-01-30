@@ -50,4 +50,4 @@ The suspicious XLS file posed a security risk and was successfully identified th
 ---
 
 ## Screenshot
-
+![SOC104 Alert Screenshot](../screenshots/soc138.png)
