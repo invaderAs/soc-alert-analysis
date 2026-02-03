@@ -8,9 +8,9 @@
 A command injection attempt was detected on an internal web server. The alert was triggered because the request body contained the string **"whoami"**, which is a common indicator of command injection attacks. Further analysis confirmed that the attacker attempted to inject multiple commands such as **whoami**, **uname**, and **ls**.  
 
 ## Event Details  
-- **Destination IP Address:** 172.16.17.16  
-- **Source IP Address:** 61.177.172.87  
-- **Requested URL:** `https://172.16.17.16/video/`  
+- **Destination IP Address:** 172.16.x7.16  
+- **Source IP Address:** 61.177.1x2.87  
+- **Requested URL:** `https://172.16.x7.16/video/`  
 - **Alert Trigger Reason:** Request body contains "whoami" string  
 
 ## Investigation  
