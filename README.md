@@ -18,7 +18,7 @@ Security Operations Center (SOC), Blue Team, Incident Response, and Malware Anal
 - Documentation & reporting
 
 ##  Tools & Platforms
-- SIEM (Wazuh / ELK)
+- LetsDefend SIEM 
 - Windows & Linux
 - Virtual Machines
 - Malware analysis environments
