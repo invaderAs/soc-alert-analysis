@@ -9,8 +9,7 @@ A malicious python file was executed on system which sent outboud connections to
 The content was confirmed as malicious and accessed by the user.
 
 ## Event Details
-Source Address: 172.16.17.36 
-
+Source Address: 172.16.17.36
 Source Hostname: Helena  
 Device Action: Allowed  
 
