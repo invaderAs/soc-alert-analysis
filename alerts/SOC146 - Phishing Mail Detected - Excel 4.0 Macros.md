@@ -13,7 +13,7 @@ An email with attachment was delivered from external source address to internal 
 - **SMTP Address:** 24.213.22x.54
 
 ## Investigation  
-The alert was reviewed according to the playbook. An email with malicious attachment was delivered to host. On investigating the attachment on various threat intel platforms it is confirmed attachment was malicious. To find if attachment was opened Logs analysis was done and contact with C2 address was found. Upon checking Endpoint activity it is found regsvr32 command is used to rum XML macro file. Therefore confirming sucessful execution. Host was contained after analysis.
+The alert was reviewed according to the playbook. An email with malicious attachment was delivered to host. On investigating the attachment on various threat intel platforms it is confirmed attachment was malicious. To find if attachment was opened Logs analysis was done and contact with C2 address was found. Upon checking Endpoint activity it is found regsvr32 command is used to run XML macro file. Therefore confirming sucessful execution. Host was contained after analysis.
 
 ## Findings  
 - An email with malicious attachment was delivered to `lars@letsdefend[.]io` from `trenton@tritowncomputers[.]com`.
